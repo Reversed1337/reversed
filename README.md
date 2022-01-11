@@ -1,8 +1,8 @@
 <h1 align="center">Hi i'm fbi</h1>
 
-<h3 align="center">I love coding in python's</h3>
+<h3 align="center">I love coding in python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fbi9807&label=Profile%20views&color=0e75b6&style=flat" alt="dreamywashere" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fbi9807&label=Profile%20views&color=0e75b6&style=flat" alt="Fbi9807" /> </p>
 
 - 📫 Reach me at **Fbi#9807 - Discord**
 
