@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fbi9807&label=Profile%20views&color=0e75b6&style=flat" alt="Fbi9807" /> </p>
 
-- 📫 Reach me at **Fbi#9807 - Discord**
+- 📫 Reach me at **Discord**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://discord.gg/uMdBUuCBwN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uc49d29ymc" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uc49d29ymc" height="30" width="40" /></a>
 
 </p>
 
