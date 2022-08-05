@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fbi9807&label=Profile%20views&color=0e75b6&style=flat" alt="Fbi9807" /> </p>
 
-- 📫 Reach me at **Discord**
+- 📫 Reach me at **Reversed#2140**
 
 <h3 align="left">Connect with me:</h3>
 
