@@ -18,7 +18,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
         <a href="" target="_blank">
-            <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/html5.png" alt="Html" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="Html" width="40" height="40"/>
         </a>
         <img alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
         <img alt="Lua" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
